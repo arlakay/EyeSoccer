@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EyeSoccer</string>
+
+    <string name="menu_1">Home</string>
+    <string name="menu_2">Eye Watch</string>
+    <string name="menu_3"></string>
+    <string name="menu_4">Eye News</string>
+    <string name="menu_5">Eye Wallet</string>
+
+</resources>
